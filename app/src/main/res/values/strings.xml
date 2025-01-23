@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NewsThreads</string>
+
+    <!--SettingsScreen-->
+    <string name="title_on_settings_screen">Settings</string>
+    <string name="close_settings_screen">Close settings screen</string>
+    <string name="name_setting_theme">Theme</string>
+    <string name="primary_text_theme">Choose theme</string>
+    <string-array name="secondary_text_theme">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System</item>
+    </string-array>
+    <string name="name_setting_color">Color</string>
+    <string name="primary_text_color">Dynamic color</string>
+    <string name="secondary_text_color">Android 12+</string>
+    <string name="primary_text_amoled">AMOLED</string>
+    <string name="secondary_text_amoled">Optimized dark theme</string>
+    <string name="info_bottom_content">
+        Learn more about managing Android light and dark themes and color schemes in Display Settings and the app.
+    </string>
+    <string name="link_text">managing Android light and dark themes</string>
+
+</resources>
